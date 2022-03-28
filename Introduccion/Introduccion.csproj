@@ -8,4 +8,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Figuras&#xD;&#xA;			&#xD;&#xA;			NewFolderzNewFolderFiguras&#xD;&#xA;			&#xD;&#xA;			NewFolderzNewFolder\**" />
+  </ItemGroup>
+
 </Project>
